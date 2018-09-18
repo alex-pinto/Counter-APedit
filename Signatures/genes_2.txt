@@ -1,1 +1,96 @@
+"HUGO symbols"	"Cell population"	"ENTREZID"
+"CD28"	"T cells"	"940"
+"CD3D"	"T cells"	"915"
+"CD3G"	"T cells"	"917"
+"CD5"	"T cells"	"921"
+"CD6"	"T cells"	"923"
+"CHRM3-AS2"	"T cells"	"100506915"
+"CTLA4"	"T cells"	"1493"
+"FLT3LG"	"T cells"	"2323"
+"ICOS"	"T cells"	"29851"
+"MAL"	"T cells"	"4118"
+"MGC40069"	"T cells"	"348035"
+"PBX4"	"T cells"	"80714"
+"SIRPG"	"T cells"	"55423"
+"THEMIS"	"T cells"	"387357"
+"TNFRSF25"	"T cells"	"8718"
+"TRAT1"	"T cells"	"50852"
+
+"CD19"	"B cells"	"930"
+"CD22"	"B cells"	"933"
+"CD79A"	"B cells"	"973"
+"IGKC"	"B cells"	"3514"
+"MS4A1"	"B cells"	"931"
+
+"CD160"	"NK cells"	"11126"
+"KIR2DL1"	"NK cells"	"3802"
+"KIR2DL3"	"NK cells"	"3804"
+"KIR2DL4"	"NK cells"	"3805"
+"KIR3DL1"	"NK cells"	"3811"
+"KIR3DS1"	"NK cells"	"3813"
+"NCR1"	"NK cells"	"9437"
+"PTGDR"	"NK cells"	"5729"
+"SH2D1B"	"NK cells"	"117157"
+
+"CX3CR1"	"Monocytic lineage"	"55803"
+"CSF1R"	"Monocytic lineage"	"1436"
+"ADGRE1"	"Monocytic lineage"	"2359"
+"MRC1"	"Monocytic lineage"	"8942"
+"CD68"	"Monocytic lineage"	"7941"
+
+
+
+"CXCR2"	"Granulocytes"	"3579"
+"S100A8"	"Granulocytes"	"NA"
+"S100A9"	"Granulocytes"	"NA"
+"CSF3R"	"Granulocytes"	"NA"
+"CLEC4D"	"Granulocytes"	"NA"
+
+
+
+
+"ACVRL1"	"Endothelial cells"	"94"
+"APLNR"	"Endothelial cells"	"8862"
+"ICAM2"	"Endothelial cells"	"NA"
+"BMP6"	"Endothelial cells"	"654"
+"CDH5"	"Endothelial cells"	"1003"
+"EMCN"	"Endothelial cells"	"51705"
+"TEK"	"Endothelial cells"	"7010"
+"TIE1"	"Endothelial cells"	"7075"
+"VWF"	"Endothelial cells"	"7450"
+
+"LAMC1"	"Fibroblasts"	"1277"
+"PCSK6"	"Fibroblasts"	"1281"
+"PDGFRA"	"Fibroblasts"	"1291"
+"ENTPD2"	"Fibroblasts"	"1292"
+"TCF21"	"Fibroblasts"	"1634"
+"COL1A1"	"Fibroblasts"	"26585"
+"DKK3"	"Fibroblasts"	"25891"
+
+"KCNJ8"	"Pericyte"	"NA"
+"VTN"	"Pericyte"	"NA"
+"COLEC11"	"Pericyte"	"NA"
+"STEAP4"	"Pericyte"	"NA"
+"ABCC9"	"Pericyte"	"NA"
+
+
+"TAGLN"	"SMC"	"NA"
+"MUSTN1"	"SMC"	"NA"
+"MYH11"	"SMC"	"NA"
+"MYLK"	"SMC"	"NA"
+"LMOD1"	"SMC"	"NA"
+
+"PLP1"	"Schwann cells"	"NA"
+"KCNA1"	"Schwann cells"	"NA"
+"S100B"	"Schwann cells"	"NA"
+"GFRA3"	"Schwann cells"	"NA"
+"CD59A"	"Schwann cells"	"NA"
+
+"TNNT2"	"Cardiomyocytes"	"NA"
+"MYH6"	"Cardiomyocytes"	"NA"
+"TTN"	"Cardiomyocytes"	"NA"
+"MHRT"	"Cardiomyocytes"	"NA"
+"ACTC1"	"Cardiomyocytes"	"NA"
+
+
 
