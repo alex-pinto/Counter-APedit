@@ -34,7 +34,7 @@ MCPcounter.estimate=function(
 		probesets=read.table(curl:::curl("http://raw.githubusercontent.com/ebecht/MCPcounter/master/Signatures/probesets.txt"),sep="\t",stringsAsFactors=FALSE,colClasses="character"),
 		genes=read.table(curl:::curl("http://raw.githubusercontent.com/ebecht/MCPcounter/master/Signatures/genes.txt"),sep="\t",stringsAsFactors=FALSE,header=TRUE,colClasses="character",check.names=FALSE)
 ){
-	markers.names=c("T cells","CD8 T cells","Cytotoxic lymphocytes","NK cells","B lineage","Monocytic lineage","Myeloid dendritic cells","Neutrophils","Endothelial cells","Fibroblasts")
+	markers.names=c("T cells","B cells","NK cells","Monocytic lineage","Granulocytes","Endothelial cells","Fibroblasts", "Pericyte", "SMC", "Schwann cells", "Cardiomyocytes")
 	if(featuresType=="affy133P2_probesets"){
 		features=probesets
 		features=split(features[,1],features[,2])
